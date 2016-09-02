@@ -7,4 +7,4 @@ $dotenv->load();
 $dotenv->required( array( 'REDIRECT_URL' ) );
 
 
-Header( "Location: " . $ENV['REDIRECT_URL'] );
+Header( "Location: " . $_ENV['REDIRECT_URL'] );
