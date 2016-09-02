@@ -1,0 +1,13 @@
+{
+    "name": "morgan-and-morgan/ftp-shortener",
+    "description": "Morgan and Morgan FTP Shortener",
+    "require": {
+        "vlucas/phpdotenv": "^2.4"
+    },
+    "authors": [
+        {
+            "name": "Developers",
+            "email": "developers@forthepeople.com"
+        }
+    ]
+}
